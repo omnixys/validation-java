@@ -1,0 +1,5 @@
+com/omnixys/validation/ContractSchema.class
+com/omnixys/validation/ContractSchemaRegistry.class
+com/omnixys/validation/SchemaValidator.class
+com/omnixys/validation/JsonSchemaValidator.class
+com/omnixys/validation/IdentitySchemas.class
