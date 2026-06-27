@@ -20,10 +20,17 @@
 
     <distributionManagement>
         <repository>
-            <id>github</id>
+            <id>github-commons</id>
             <url>https://maven.pkg.github.com/omnixys/Validation-java</url>
         </repository>
     </distributionManagement>
+
+    <repositories>
+        <repository>
+            <id>github-commons</id>
+            <url>https://maven.pkg.github.com/omnixys/commons-java</url>
+        </repository>
+    </repositories>
 
     <dependencies>
         <dependency>
