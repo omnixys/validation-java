@@ -3,6 +3,12 @@
 All notable changes in this project will be documented in this file.
 
 
+## [1.0.1](https://github.com/omnixys/validation-java/compare/v1.0.0...v1.0.1) (2026-07-16)
+
+### Deps
+
+* **Deps:** update dependencies ([](https://github.com/omnixys/validation-java/commit/e67784efd4792f63f53a62dd690253770ad0e79f))
+
 ## 1.0.0 (2026-06-27)
 
 ### CD/CI
