@@ -16,11 +16,13 @@
     <properties>
         <java.version>26</java.version>
         <maven.compiler.release>26</maven.compiler.release>
+
+        <omnixys.commons.version>1.0.4</omnixys.commons.version>
     </properties>
 
     <distributionManagement>
         <repository>
-            <id>github-commons</id>
+            <id>github-validation</id>
             <url>https://maven.pkg.github.com/omnixys/Validation-java</url>
         </repository>
     </distributionManagement>
@@ -36,7 +38,7 @@
         <dependency>
             <groupId>com.omnixys</groupId>
             <artifactId>commons</artifactId>
-            <version>1.0.0</version>
+            <version>${omnixys.commons.version}</version>
         </dependency>
 
         <dependency>
