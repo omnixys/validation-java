@@ -3,6 +3,16 @@
 All notable changes in this project will be documented in this file.
 
 
+## [1.0.3](https://github.com/omnixys/validation-java/compare/v1.0.2...v1.0.3) (2026-08-22)
+
+### Agent
+
+* **Agent:** add repository development instructions ([](https://github.com/omnixys/validation-java/commit/c4679020db47d6f541026731ca39d1bf1d0da2f4))
+
+### Dir
+
+* **Dir:** remove target dir ([](https://github.com/omnixys/validation-java/commit/43bc00077a4dc95732240969f77de9269d601fab))
+
 ## [1.0.2](https://github.com/omnixys/validation-java/compare/v1.0.1...v1.0.2) (2026-07-23)
 
 ### Deps
