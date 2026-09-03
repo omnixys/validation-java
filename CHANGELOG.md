@@ -3,6 +3,21 @@
 All notable changes in this project will be documented in this file.
 
 
+## [1.0.4](https://github.com/omnixys/validation-java/compare/v1.0.3...v1.0.4) (2026-09-03)
+
+### Ci
+
+* **Ci:** add update release rule for patch releases ([](https://github.com/omnixys/validation-java/commit/4b6ab96d0edbdc1c07956926b325e135af005a32))
+* **Ci:** align CI structure with full workflow set, 3-job release, and pinned conventionalcommits ([](https://github.com/omnixys/validation-java/commit/05d8111a253f1b61725166784bf82f97bc269c15))
+
+### Other
+
+* **Other:** Merge pull request #1 from omnixys/migration/uuid-v7 ([](https://github.com/omnixys/validation-java/commit/76486e6b932b2110b801d2301e3a4211f0df8e9b)), closes [#1](https://github.com/omnixys/validation-java/issues/1)
+
+### Runtime
+
+* **Runtime:** align spring boot and build toolchain to local standard ([](https://github.com/omnixys/validation-java/commit/60bd151066e18729afabb17f7bbeabc95c01833e))
+
 ## [1.0.3](https://github.com/omnixys/validation-java/compare/v1.0.2...v1.0.3) (2026-08-22)
 
 ### Agent
